@@ -28,23 +28,14 @@
 
 ## :dart: About ##
 
-Describe your project
+User a Django project with Docker
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Work with Dockerfile. \
+:heavy_check_mark: Work with Docker Image. \
+:heavy_check_mark: Create Docker containers.
 
-## :rocket: Modules ##
-
-The following modules were used in this project:
-
-- []()
-- []()
-- []()
-- []()
-- []()
 
 ## :white_check_mark: Requirements ##
 
